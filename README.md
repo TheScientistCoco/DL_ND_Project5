@@ -1,2 +1,2 @@
 # DL_ND_Project5
-Deploying a Sentiment Analysis Model
+Udacity Deep Learning Nanodegree Project 5: Deploying a Sentiment Analysis Model
